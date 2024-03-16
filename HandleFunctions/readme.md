@@ -1,4 +1,4 @@
-Programa destinado a realizar calculos de funções de primeiro grau, segundo grau, negativas e positivas, gausianas, singMode, cos,
+Programa destinado a realizar cálculos de funções de primeiro grau, segundo grau, tanto negativas quanto positivas, gaussianas, singMode, cos,
 seno, tan, funções de terceiro grau, positivas e negativas. Os resultados serão armazenados num doc txt para ser consumido como 
 um dataSet no googleLookerstudio.
 
