@@ -1,0 +1,20 @@
+1. Contador de Vogais e Consoantes
+  Escreva um script que conte o número de vogais e consoantes em uma frase fornecida pelo usuário.
+2. Analisador de Frequência de Letras
+  Escreva um programa que analise a frequência de cada letra em um texto e retorne um histograma dessa frequência.
+3. Calculadora de Média com Suporte a Diferentes Separadores Decimais
+  Crie um programa que solicite ao usuário uma sequência de números separados por espaço, aceitando tanto o ponto (.) quanto a vírgula (,) como separadores decimais. O programa deve calcular e exibir a média desses números.
+4. Decodificador de Código Morse
+  Implemente um programa que traduza uma string de código Morse para texto e vice-versa.
+5. Conversor de Números Romanos
+  Faça um programa que converta um número romano para um número decimal e vice-versa.
+6. Contador e classificador de caracteres
+  Escreva um programa que receba uma string do usuário e retorne o número total de caracteres, de letras maiúsculas, letras minúsculas, números, caracteres especiais e barras de espaço desta string.
+7. Gerador de Senha Aleatória
+  Crie um programa que gere senhas aleatórias com letras (maiúsculas e minúsculas), números e símbolos, permitindo ao usuário especificar o comprimento da senha.
+8. Substituidor de Palavras em Texto
+  Escreva um programa que substitua todas as ocorrências de uma palavra específica em um texto por outra palavra fornecida pelo usuário.
+9. Validador de Senhas
+  Crie um script que valide e classifique a complexidade de uma senha baseado em critérios definidos (ex: mínimo de caracteres maiúsculos e minúsculos, uso de números e símbolos).
+10. Codificador/Decodificador de Mensagens
+  Implemente um script que use uma cifra de substituição simples (como a cifra de César) para codificar e decodificar mensagens.
