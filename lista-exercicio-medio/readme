@@ -1,0 +1,34 @@
+1.Contador de Números Positivos
+  Problema: Escreva um programa que utilize um loop for para percorrer uma lista de números gerados aleatoriamente e conte quantos são positivos.
+2. Acumulador de Soma
+  Problema: Desenvolva um programa que use um loop while para somar todos os números até 100 e imprimir o resultado.
+3. Concatenação e Organizador de Listas
+  Problema: Crie um programa que concatene duas listas fornecidas pelo usuário e organize a lista em ordem crescente.
+4. Conversor de Temperatura
+  Problema: Implemente uma função que converta a temperatura de Celsius para Fahrenheit.
+5. Gerador de Lista de Quadrados
+  Problema: Escreva um programa que utilize um loop for para gerar uma lista dos quadrados dos números de 1 a 20.
+6. Listagem de Números Primos
+  Problema: Escreva um programa que verifique entre todos os números de 1 a 100 quais são números primos e exiba uma lista com todos.
+7. Função com Parâmetros Padrões
+  Problema: Implemente uma função que desenhe uma linha padrão na tela sem que sejam passados argumentos para a função, porém aceitando como parâmetros definidos por posição um caractere para construir a linha e o comprimento da linha.
+8. Função de Potência Customizada
+  Problema: Escreva uma função que calcule a potência de um número com um expoente padrão de 2, permitindo ao usuário alterar esse expoente com parâmetros por Keyword e retorne o resultado da operação.
+9. Função de Fatorial
+  Problema: Escreva uma função que calcule o fatorial de um número passado como argumento e retorne o resultado.
+10. Conversor de Base Numérica
+  Problema: Desenvolva um programa que converta um número da base decimal para binária usando um loop while.
+11. Ordenador de Lista por Tamanho de Palavra
+  Problema: Implemente um programa que organize uma lista de palavras em ordem crescente de tamanho.
+12. Filtragem de Lista por Condição
+  Problema: Desenvolva um programa que filtre uma lista de números, removendo aqueles que não satisfazem uma condição específica (por exemplo, ser par).
+13. Função Geradora de Histograma
+  Problema: Escreva uma função que receba uma lista de números e imprima um histograma na tela (usando asteriscos para representar a frequência dos números).
+14. Simulador de Lançamento de Dados
+  Problema: Crie um programa que simule o lançamento de um dado n vezes, armazenando os resultados em uma lista, depois calcule a média dos resultados e calcule a distribuição de frequência dos elementos da lista.
+15. Função Geradora de Senhas Aleatórias
+  Problema: Escreva uma função que gere uma senha aleatória contendo letras maiúsculas, minúsculas, números e símbolos.
+16. Validador de CPF
+  Problema: Crie um programa que valide um número de CPF fornecido pelo usuário (considerando apenas a validação dos dígitos verificadores).
+17. imulador de Caixa Eletrônico
+  Problema: Desenvolva um programa que simule a operação de um caixa eletrônico, permitindo ao usuário sacar uma quantia especificada e retornando as notas necessárias para o montante.
